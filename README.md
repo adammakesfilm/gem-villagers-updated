@@ -1,3 +1,8 @@
+*PLEASE DO NOT GO TO VANILLA TWEAKS FOR HELP THIS IS A MODIFIED VERSION OF THEIR PACK,*
+*ASK ME FOR HELP INSTEAD*
+
+---
+
 # Gem Villagers Updated
 
 This is an updated version of [Vanilla Tweaks](https://vanillatweaks.net/)' Gem Villagers datapack that includes all the mini blocks that are in their Wandering Trades datapack. It does not, however, include the Hermit Heads villager. 
