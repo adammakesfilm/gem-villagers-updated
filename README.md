@@ -14,3 +14,10 @@ All credit for development and artwork goes to the Vanilla Tweaks Team:
 | Stridey | Resource Pack Developer | [@Strideyyyy](https://twitter.com/Strideyyyy) 
 | Grant | Data Pack Developer | [@GrantGryczan](https://twitter.com/GrantGryczan) 
 | rx | Data Pack Developer | [@IAmRx97](https://twitter.com/IAmRx97) 
+
+---
+Official Download Links:
+- GitHub: https://github.com/adammakesfilm/gem-villagers-updated
+- Modrinth: https://modrinth.com/datapack/gem-villagers-updated
+- CurseForge: https://www.curseforge.com/minecraft/customization/gem-villagers-updated
+- PlanetMinecraft: https://www.planetminecraft.com/data-pack/gem-villagers-updated/
