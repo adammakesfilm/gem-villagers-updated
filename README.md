@@ -25,4 +25,4 @@ Official Download Links:
 - GitHub: https://github.com/adammakesfilm/gem-villagers-updated
 - Modrinth: https://modrinth.com/datapack/gem-villagers-updated
 - CurseForge: https://www.curseforge.com/minecraft/customization/gem-villagers-updated
-- PlanetMinecraft: https://www.planetminecraft.com/data-pack/gem-villagers-updated/
+- Planet Minecraft: https://www.planetminecraft.com/data-pack/gem-villagers-updated/
