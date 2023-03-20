@@ -1,7 +1,6 @@
-*PLEASE DO NOT GO TO VANILLA TWEAKS FOR HELP THIS IS A MODIFIED VERSION OF THEIR PACK,*
-*ASK ME FOR HELP INSTEAD*
-
----
+[![GitHub downloads](https://img.shields.io/github/downloads/adammakesfilm/gem-villagers-updated/total?label=Github%20downloads&logo=github)](https://github.com/adammakesfilm/gem-villagers-updated/releases)
+[![CurseForge downloads](http://cf.way2muchnoise.eu/full_771323_downloads.svg)](https://www.curseforge.com/minecraft/customization/gem-villagers-updated)
+[![Modrinth downloads](https://img.shields.io/modrinth/dt/f1o3bE0F?label=Modrinth%20Downloads)](https://modrinth.com/datapack/gem-villagers-updated)
 
 # Gem Villagers Updated
 
