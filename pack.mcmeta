@@ -1,6 +1,15 @@
 {
 	"pack": {
-		"pack_format": 12,
-		"description": [{"text":"Gem Villagers 1.19.4","color":"gold"},{"text":"\nvanillatweaks.net + Adammakesfilm","color":"yellow"}]
+		"pack_format": 48,
+		"description": [
+			{
+				"text": "Gem Villagers Updated",
+				"color": "gold"
+			},
+			{
+				"text": "\nvanillatweaks.net + adammakesfilm",
+				"color": "yellow"
+			}
+		]
 	}
 }
