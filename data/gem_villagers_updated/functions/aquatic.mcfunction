@@ -2,7 +2,7 @@
 {Silent:1b,Invulnerable:1b,CustomNameVisible:1b,CustomName:'{"color":"aqua","text":"Aquatic"}',
 ArmorItems:[{},{},{},{id:"minecraft:player_head",count:1,
 components:{"minecraft:rarity":"common","minecraft:profile":{properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjY3NjY5MmU2OTUwMmY5NTU1N2Y2ODdiY2VhMmI1NjUwZjNkOWM4ODQ0OGZkOWZhOGUwNDZkMWQzMTViNzJhYiJ9fX0"}]}}}],
-attributes:[{id:"minecraft:generic.knockback_resistance",base:0},{id:"minecraft:generic.movement_speed",base:0}],
+ArmorDropChances:[0.085F,0.085F,0.085F,0.000F],attributes:[{id:"minecraft:generic.knockback_resistance",base:0},{id:"minecraft:generic.movement_speed",base:0}],
 VillagerData:{level:99,profession:"minecraft:mason",type:"minecraft:swamp"},Offers:{Recipes:[
     
     {rewardExp:0b,maxUses:2147000000,
